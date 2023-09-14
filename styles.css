@@ -4,5 +4,5 @@ table{
 	
 }
 table,th,th{
-	1px sloid black;
+	border :1px sloid black;
 }
